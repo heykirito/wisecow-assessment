@@ -13,6 +13,6 @@ COPY . .
 
 RUN chmod +x ./wisecow.sh
 
-EXPOSE 4000
+EXPOSE 4499
 
 CMD ["./wisecow.sh"]
